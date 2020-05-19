@@ -1,0 +1,10 @@
+# Common virtual environment names
+.env
+venv
+env
+
+# Jupyter
+.ipynb_checkpoints
+
+# data
+**/data/*

@@ -1,0 +1,2 @@
+task1/saved_models/*.pkl filter=lfs diff=lfs merge=lfs -text
+task2/saved_models/*.pkl filter=lfs diff=lfs merge=lfs -text
